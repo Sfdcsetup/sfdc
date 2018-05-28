@@ -1,5 +1,5 @@
 public class samplecall{
-
+ //lighting Purpose
     @AuraEnabled
     public static string nameres(string name){
     
